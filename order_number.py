@@ -2,11 +2,11 @@
 #write a python script enter the order number user difinend one value.
 #input:enter integer order number.
 #process:take a value user difinend value
-# 1.if order number==1:
-# 2.elif order number==2:
-# 3.elif order number==3:
-# 4.elif order number==4:
-# 5.elif order number==5:
+# 1.if order number equal equal 1 : print"you have order pizz"
+# 2.elif order number equal equal 2 :print "you have order burger"
+# 3.elif order number equal equal 3 :print "you have order vada pav"
+# 4.elif order number equal equal 4 :print "you have order kachori"
+# 5.elif order number equal equal 5 :print "you have order close"
 
 
 order_number=int(input("enter the order number:"))
