@@ -1,4 +1,4 @@
-# Que-write a python program create math maeks.
+# Que-write a python program to accept percentage form the user and display the grade according to the follwing criteria
 math_marks=int(input("enter the math marks:"))
 if math_marks>90:
 	print("gread,A")
